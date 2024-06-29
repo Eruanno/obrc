@@ -1,0 +1,9 @@
+org.example.baseline.BaselineAggregator
+org.example.indexof.IndexOfAggregator
+org.example.getandput.GetAndPutAggregator
+org.example.minmax.MinMaxAggregator
+org.example.useint.UseIntAggregator
+org.example.fastset.FastSetAggregator
+org.example.channel.ChannelAggregator
+org.example.nostring.NoStringAggregator
+org.example.nocopy.NoCopyAggregator
